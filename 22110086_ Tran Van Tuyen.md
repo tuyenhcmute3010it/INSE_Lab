@@ -174,3 +174,5 @@ Cookie of the website
 
 **Question 3**: Make use of John the Ripper to disclose the password of all database users from the above exploit
 **Answer 3**:
+
+![image](https://github.com/user-attachments/assets/96e51b7d-84b9-4538-8987-bb2ac4afeacb)
